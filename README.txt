@@ -1,0 +1,5 @@
+常用的一些小工具：
+coco_dataset_maker:基于pascal数据集格式的xml标准文件生成coco格式的dataset
+csv2json:将结果csv文件转化成coco格式的json文件
+data_analysis:coco格式检测结果分析
+result_vis:csv格式检测结果可视化
